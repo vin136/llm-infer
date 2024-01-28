@@ -1,0 +1,95 @@
+question,note,time,answer,compute,word_cnt,model,inference_engine
+Write a poem like Jordan Peterson.,vLLM,3.494984231889248,"
+
+In the vast temple of abiding chaos,
+Where primordial fires ravaged,
+And entities wretched, like tornadoes,
+Floated and swirled in bestial frenzies,
+
+There existed a Being, sublime,
+A Sage, who bore witness to the mine,
+A labyrinth of locomotion, weaving a path,
+Towards the apogee of the inner-self's wrath.
+
+With epic scholarly tones, our prophet, Peterson,
+Did embark upon a monumental quest,
+To conquer the beast in the abyss,
+The darkness that thou must not miss.
+
+He delved into the depths, studying signs,
+The Archetypes, the tribal-lore from antiquity's beginning,
+With sages and seers, in ancient fields,
+He slaked",NVIDIA RTX 6000 Ada Generation,625,mistralai/Mistral-7B-Instruct-v0.2,vllm
+Write a poem like Tom Cruise from mission impossible.,vLLM,3.494304425548762," Maybe you jump out of a plane or climb a building. Could be silly too…
+
+In the shadows, I lurk unseen,
+Tom Cruise, your silent dream,
+Mission Impossible's stealthy knight,
+A dance with danger in the soft moonlight.
+
+I leap from heights withreckless grace,
+A solitary, daring face,
+My heart a pounding rhythmic beat,
+My spirit wild and free, my feet unmeet.
+
+From a plane's lofty cabin high,
+I dive into the star-strewn sky,
+A silhouette against the night,
+My parachute, a guardian of life.
+
+Upon the mountain's stony crest,
+My fingers tracing granite's rested breast,
+The wind, a siren's singing call,
+A tale that beckons, yet declines to fall",NVIDIA RTX 6000 Ada Generation,644,mistralai/Mistral-7B-Instruct-v0.2,vllm
+"Write a story in the style of James Joyce about a trip to the Australian outback in 2083, to see robots in the beautiful desert.",vLLM,3.4998160069808364,"
+
+Title: Ondtata Roygbiv: A Diaspora of Technomachines in the Desert of Dunes
+
+I
+
+Amidst a land of eternal burnishment, where the heavens kissed the earth in a perpetual Symphonie der Farben, the eldritch metamorphosis of an age-old pilgrimage unfolded. The year was 2083, and the auspicious occasion was the commencement of the Great Ondtata Roygbiv Expedition, a veritable diaspora of the cognoscenti and curious philomaths on a journey to behold the enigmatic robots of the Australian Outback. A resplendent disposition had descended upon the collective psyche of mankind, the anticipation of witnessing these mechano-entities, conceived within the labyrinthine cranial constructs of human art",NVIDIA RTX 6000 Ada Generation,696,mistralai/Mistral-7B-Instruct-v0.2,vllm
+Who does Harry turn into a balloon?,vLLM,3.4959710692055523,"
+
+While Harry, Ron, and Hermione sail through the Room of Requirement in a balloon, they come across the house-elf Helena Ravenclaw. Harry offers to make her a Fred and George-style Carnivorous Snack Box, but she says she just wants to ride in a balloon. The trio oblige, and fill Helena full of hot air from their fires, allowing her to float.
+
+Helena Ravenclaw is a house-elf who had been the Ravenclaw house-elf for centuries until her failure to stop theploys of the Noble and Most Ancient House of Black. She was confined to the Ravenclaw common room and was only freed when Harry, Ron, and Hermione came across her in the Room of Requirement. Harry filled her with hot air and she turned into a balloon, allowing the trio to escape Voldemort's henchmen",NVIDIA RTX 6000 Ada Generation,758,mistralai/Mistral-7B-Instruct-v0.2,vllm
+Write a tale about a time-traveling historian who's determined to witness the most significant events in human history.,vLLM,3.4967874749563634,"
+
+Title: Chronicles of the Temporal Scholar
+
+Prologue: Echoes of Time
+
+Between the cascading folds of the cosmos, enveloped within the eternally spiraling web of time, existed a realm untouched by human knowledge. Amidst this enigmatic dimension, known as the Temporal Nexus, dwelled Chronarus Xenopolis, a historian of considerable repute, curiosity, and ambition. Clad in composite armor befitting a modern-day explorer, he clutched a système temporale--an artifact of unparalleled complexity, its secrets whispered in hushed tones by ancestors past. The device, in essence, resembled a gargantuan stopwatch, embedded with an array of holographic chronometers, etched with celestial constellations, and enclosed within an ornate golden casing",NVIDIA RTX 6000 Ada Generation,744,mistralai/Mistral-7B-Instruct-v0.2,vllm
+What is the product of 9 and 8?,vLLM,0.3159678541123867,"
+Answer: The product of 9 and 8 is 72.",NVIDIA RTX 6000 Ada Generation,38,mistralai/Mistral-7B-Instruct-v0.2,vllm
+"If a train travels 120 kilometers in 2 hours, what is its average speed?",vLLM,2.3061522459611297,"
+
+Let's find the average speed of the train:
+
+1. We know the train travels a distance of 120 kilometers.
+2. We also know that the time taken to travel this distance is 2 hours.
+
+To find the average speed, we use the formula:
+Average speed = Total distance / Total time
+
+So,
+Average speed = 120 kilometers / 2 hours
+
+Average speed = 60 kilometers per hour (km/h)
+
+Therefore, the train's average speed is 60 kilometers per hour.",NVIDIA RTX 6000 Ada Generation,426,mistralai/Mistral-7B-Instruct-v0.2,vllm
+"Think through this step by step. If the sequence a_n is defined by a_1 = 3, a_2 = 5, and a_n = a_(n-1) + a_(n-2) for n > 2, find a_6.",vLLM,2.663162951823324,"
+
+First, let's calculate the first few terms in the sequence:
+
+a_1 = 3
+a_2 = 5
+a_3 = a_2 + a_1 = 3 + 5 = 8
+a_4 = a_3 + a_2 = 8 + 5 = 13
+a_5 = a_4 + a_3 = 13 + 8 = 21
+
+Now, we can find a_6 by adding the last two terms:
+
+a_6 = a_5 + a_4 = 21 + 13 = 34
+
+So, a_6 = 34.",NVIDIA RTX 6000 Ada Generation,264,mistralai/Mistral-7B-Instruct-v0.2,vllm
