@@ -14,3 +14,6 @@ Resources
 [Coursera prompt-engineering course](https://github.com/ksm26/chatGPT-Prompt-Engineering-for-Developers/tree/main)
 
 [another prompt engineering course](https://github.com/mikeffendii/Building-Systems-with-the-ChatGPT-API)
+
+
+For structuring experimets(mlops): https://github.com/vin136/MLOPS
