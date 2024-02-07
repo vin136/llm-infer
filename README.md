@@ -8,3 +8,7 @@ Resources
 [coursera-llm](https://github.com/Ryota-Kawamura/Generative-AI-with-LLMs/tree/main)
 
 [fine-tune-mistral](https://github.com/NielsRogge/Transformers-Tutorials/tree/master/Mistral)
+
+[prompt-engineering-guide](https://www.promptingguide.ai/) : This has mistral specific details.
+
+[Coursera prompt-engineering course](https://github.com/ksm26/chatGPT-Prompt-Engineering-for-Developers/tree/main)
