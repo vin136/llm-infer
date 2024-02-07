@@ -12,3 +12,5 @@ Resources
 [prompt-engineering-guide](https://www.promptingguide.ai/) : This has mistral specific details.
 
 [Coursera prompt-engineering course](https://github.com/ksm26/chatGPT-Prompt-Engineering-for-Developers/tree/main)
+
+[another prompt engineering course](https://github.com/mikeffendii/Building-Systems-with-the-ChatGPT-API)
