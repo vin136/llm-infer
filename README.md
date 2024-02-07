@@ -17,3 +17,13 @@ Resources
 
 
 For structuring experimets(mlops): https://github.com/vin136/MLOPS
+
+Fine tuning llms
+
+https://www.youtube.com/playlist?list=PL23FjyM69j92o_j5JFH9sNlbhCx4n0ZYh
+
+https://wandb.ai/johnowhitaker/llmemo/reports/Can-LLMs-learn-from-a-single-example---Vmlldzo1MjQ2MDYy
+
+https://johnowhitaker.dev/
+
+
