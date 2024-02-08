@@ -1,0 +1,38 @@
+#default
+pandas==2.2.0
+GPUtil==1.4.0
+transformers==4.37.2
+datasets==2.16.1
+peft==0.8.2
+bitsandbytes==0.42.0
+trl==0.7.10
+
+# Notebook
+cleanlab==2.3.1
+jupyterlab==3.6.3
+lime==0.2.0.1
+seaborn==0.12.2
+wordcloud==1.9.2
+
+# Documentation
+mkdocs==1.4.2
+mkdocstrings==0.21.2
+mkdocstrings[python]>=0.18
+
+# Styling
+black==23.3.0
+flake8==6.0.0
+Flake8-pyproject==1.2.3
+isort==5.12.0
+pyupgrade==3.3.2
+
+# Testing
+great-expectations==0.16.5
+pytest==7.3.1
+pytest-cov==4.0.0
+
+# Development
+fastapi==0.95.2
+pre-commit==3.2.2
+typer==0.9.0
+
