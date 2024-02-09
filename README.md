@@ -28,4 +28,10 @@ https://wandb.ai/johnowhitaker/llmemo/reports/Can-LLMs-learn-from-a-single-examp
 
 https://johnowhitaker.dev/
 
+Hugging face blog/references
+
+[generation strategies](https://huggingface.co/docs/transformers/en/generation_strategies)
+[chat-template](https://huggingface.co/docs/transformers/en/chat_templating)
+[prompting](https://huggingface.co/docs/transformers/en/tasks/prompting)
+
 
