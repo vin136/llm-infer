@@ -15,6 +15,8 @@ Resources
 
 [another prompt engineering course](https://github.com/mikeffendii/Building-Systems-with-the-ChatGPT-API)
 
+[mistral finetune blog](https://medium.com/@parikshitsaikia1619/mistral-mastery-fine-tuning-fast-inference-guide-62e163198b06)
+
 
 For structuring experimets(mlops): https://github.com/vin136/MLOPS
 
