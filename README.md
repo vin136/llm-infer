@@ -45,3 +45,15 @@ Practical solutions:
 [vad - detect end point](https://medium.com/axinc-ai/silerovad-machine-learning-model-to-detect-speech-segments-e99722c0dd41)
 [faster whisper](https://github.com/SYSTRAN/faster-whisper), [whisper-live](https://github.com/collabora/WhisperLive)
 
+
+## Learning
+
+TODO:
+
+- [Implement Transformer from scratch](https://github.com/hkproj/pytorch-transformer/tree/main)
+- [Implement Llama2 from scratch](https://www.youtube.com/watch?v=oM4VmoabDAI),[code](https://github.com/hkproj/pytorch-llama)
+- [Quantization](https://github.com/hkproj/quantization-notes)
+- [Lora](https://github.com/hkproj/pytorch-lora)
+- [Dist Training](https://github.com/hkproj/pytorch-transformer-distributed)
+- [Mistral](https://github.com/hkproj/mistral-llm-notes/tree/main)
+
