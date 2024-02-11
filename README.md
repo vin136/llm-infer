@@ -43,5 +43,5 @@ basically, use an ML model to detect end-of-command.
 Practical solutions:
 
 [vad - detect end point](https://medium.com/axinc-ai/silerovad-machine-learning-model-to-detect-speech-segments-e99722c0dd41)
-[faster whisper](https://github.com/SYSTRAN/faster-whisper)
+[faster whisper](https://github.com/SYSTRAN/faster-whisper), [whisper-live](https://github.com/collabora/WhisperLive)
 
