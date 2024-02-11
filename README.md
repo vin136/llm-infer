@@ -34,4 +34,9 @@ Hugging face blog/references
 [chat-template](https://huggingface.co/docs/transformers/en/chat_templating)
 [prompting](https://huggingface.co/docs/transformers/en/tasks/prompting)
 
+End-point detection
+
+[alexa paper](https://arxiv.org/pdf/2401.08916.pdf)
+
+basically, use an ML model to detect end-of-command.
 
